@@ -26,7 +26,3 @@ A donation platform built with **Next.js** that integrates **Razorpay** for secu
 
 **2. AI Blog Site**  
 An innovative blog site that automatically generates content using AI, aimed at providing readers with fresh and relevant articles on a variety of topics.
-
-## Contact
-- **LinkedIn**: www.linkedin.com/in/kunal019
-- **Email**: kyzakplays@gmail.com
