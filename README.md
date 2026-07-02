@@ -15,8 +15,7 @@ I’m a solo developer specializing in **MERN Stack**, **Next.js**, and **Python
 - **Database**: MongoDB
 - **Version Control**: Git & GitHub
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzak-playz&show_icons=true&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=kyzak-playz&theme=ocean&hide_border=true&border_radius=2.5&custom_title=My+Stats&size=compact)
 
 ---
 
